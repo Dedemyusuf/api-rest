@@ -14,9 +14,9 @@ class UserController extends Controller
 {
 
     protected $data = [
-                'base_uri' => 'http://apiback.app/', 
+                'base_uri' => 'http://localhost:8000/', 
                 'headers'  => [
-                    'api-key' => '$2y$10$8IIyWww8.9D823nKzn4TmOmPB'
+                    'api-key' => 'KUGHrU6EsUknQBNOilLVdYHqPfMesjNY'
                 ]
             ];
 
